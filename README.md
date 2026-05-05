@@ -1,2 +1,2 @@
 # cobex.github.io
-public facing repo build for contact website
+Having issues? Email me for support!
