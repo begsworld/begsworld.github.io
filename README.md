@@ -1,1 +1,1 @@
-# Having issues? Email me for support!
+Having issues? Email me cobex.support@gmail.com!
