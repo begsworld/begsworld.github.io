@@ -1,3 +1,3 @@
 Having issues? Email me cobex.support@gmail.com!
 
-![alt text](assets/images/phone.jpg)
+<img src="assets/images/phone.jpg" width="300" height="auto">
