@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: 'Georgia', serif;
+  background-color: #1a1a2e;
+  color: #eee;
+}
+
+h1, h2, h3 {
+  color: #e94560;
+}
+
+a {
+  color: #0f3460;
+}
